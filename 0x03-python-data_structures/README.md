@@ -1,0 +1,1 @@
+This project is about python data structures mostly lists and tuples
